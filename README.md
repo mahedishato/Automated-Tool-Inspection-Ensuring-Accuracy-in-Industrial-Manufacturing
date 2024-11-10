@@ -2,7 +2,7 @@
 ---
 
 # Automated Tool Inspection System
-![Tool Detection](Automated-Tool-Inspection-Ensuring-Accuracy-in-Industrial-Manufacturing/tools.jpg)
+![Tool Detection](tools.jpg)
 
 
 **Overview**  
