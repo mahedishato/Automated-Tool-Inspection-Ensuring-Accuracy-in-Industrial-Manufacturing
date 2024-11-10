@@ -64,7 +64,8 @@ Our system integrates real-time image processing with advanced machine learning 
 
 Below are some images showcasing the system in action. These examples highlight the accuracy of the tool detection and identification processes, as well as the user interface that displays results in real-time.
 
-**[Add Images Here]**
+![Alt text](reaaaal.jpg)![Alt text](tools.jpg)
+
 
 Each image demonstrates:
 - Accurate tool recognition and classification.
