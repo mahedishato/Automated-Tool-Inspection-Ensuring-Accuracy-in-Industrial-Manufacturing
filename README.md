@@ -1,8 +1,8 @@
-Here's a revised and more comprehensive README for the Automated Tool Inspection System:
 
 ---
 
 # Automated Tool Inspection System
+(mahedishato/Automated-Tool-Inspection-Ensuring-Accuracy-in-Industrial-Manufacturing/tools.jpg)
 
 **Overview**  
 The Automated Tool Inspection System is a cutting-edge solution designed to bring speed, accuracy, and efficiency to quality control in industrial tool manufacturing. By harnessing the power of AI, this system automates the detection and counting of tools in production boxes, minimizing the need for manual inspection and significantly reducing the potential for costly errors and delays.
